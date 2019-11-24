@@ -318,7 +318,7 @@ require 'session.php';
         <footer>
             <div class="row justify-content-center">
                 <div class="col-md-5 justify-content-center">
-                    <h2 style="font-style: italic;margin-left: 35%;padding: 15px;">OCT</h2>
+
                     <h5 style="margin-left: 35%;">ContactInfo:-</h5>
                     <p style="font-style: italic;margin-left: 40%;padding: 0px;">6396852830</p>
                     <p style="font-style: italic;margin-left: 30%;padding:0px">mudit.mangal_cs17@gla.ac.in</p>
