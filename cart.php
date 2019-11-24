@@ -177,7 +177,7 @@ require 'session.php';
         <footer>
             <div class="row justify-content-center">
                 <div class="col-md-5">
-                    <h2 style="font-style: italic;margin-left: 35%;padding: 20px;">Cafeteria</h2>
+                   
                     <h5 style="margin-left: 38%;padding: 10px;">ContactInfo:-</h5>
                    <p style="font-style: italic;margin-left: 40%;padding: 0px;">6396852830</p>
                     <p style="font-style: italic;margin-left: 30%;padding:0px">mudit.mangal_cs17@gla.ac.in</p>
@@ -193,7 +193,7 @@ require 'session.php';
                     <a href="" target="_blank"><i class="fa fa-instagram" style="margin-left: 100%;"></i></a>
                
 -->
-                    <p style="margin-left: 40%">&copy; Cafeteria</p>
+                    <p style="margin-left: 40%">&copy;OCT</p>
                 </div>
                 <!--                <hr class="socket">-->
 
