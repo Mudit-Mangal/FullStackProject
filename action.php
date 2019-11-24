@@ -238,7 +238,7 @@ if(isset($_POST['actionf'])){
     $output = '';
     if($result->num_rows>0){
         while($row=$result->fetch_assoc()){
-            $output .='<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 " style="margin-top:50px;margin-bottom:500px;">
+            $output .='<div class="col-lg-3 col-md-4 col-sm-6 col-xs-12 " style="margin-top:50px;">
                     <div class="card text-center border-success" >
 
                         <img class="card-img-top bg-light img-fluid" src="'.$row['product_image'].'" style="height:350px">
