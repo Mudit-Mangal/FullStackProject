@@ -243,7 +243,7 @@ if(isset($_POST['actionf'])){
 
                         <img class="card-img-top bg-light img-fluid" src="'.$row['product_image'].'" style="height:350px">
                         <div class="card-body">
-                            <h5>'.$row['product_name'].'</h5>
+                            <h5 style="height:80px;">'.$row['product_name'].'</h5>
                             <p>Rs.&nbsp;'. number_format($row['product_price']).'/-</p>
                             <form action="" class="form-submit">
                                 <input type="hidden" class="pid" value="'.$row['p_id'].'">
